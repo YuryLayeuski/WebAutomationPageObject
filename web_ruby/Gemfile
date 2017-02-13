@@ -1,0 +1,8 @@
+source :rubygems
+
+gem 'cucumber'
+gem 'rspec'
+gem 'selenium-webdriver', '2.53.0'
+gem 'pry'
+
+
